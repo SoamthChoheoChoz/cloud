@@ -1,4 +1,4 @@
-[![Fork me on Gitee](https://gitee.com/zhou_cloud/cloud/widgets/widget_3.svg)](https://gitee.com/zhou_cloud/cloud)
+[![star](https://gitee.com/zhou_cloud/cloud/badge/star.svg?theme=dark)](https://gitee.com/zhou_cloud/cloud/stargazers)
 
 ---------------------
 #### 向因疫情而牺牲的英雄们致敬!
