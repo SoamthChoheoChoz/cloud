@@ -20,8 +20,8 @@
 2. 在"提交信息"处填写用途;
 3. 管理员检测.
 
-注：1.如未注册，请点击链接注册：[码云](https://gitee.com/signup?from=homepage)与[github](https://github.com/join?source=header-home)
-
+注：
+   1.如未注册，请点击链接注册：[码云](https://gitee.com/signup?from=homepage)与[github](https://github.com/join?source=header-home)
    2.[GitHub加入入口](),[码云加入入口]()
     
 ### 可能遇到以下情况: 
