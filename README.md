@@ -20,7 +20,7 @@
 2. 在"提交信息"处填写用途;
 3. 管理员检测.
 
-注：注册入口：[码云](https://gitee.com/signup?from=homepage)与[github](https://github.com/join?source=header-home)
+注：如未注册，请点击链接注册：[码云](https://gitee.com/signup?from=homepage)与[github](https://github.com/join?source=header-home)
 ### 可能遇到以下情况: 
    #### :worried: 不通过:
       😕不明用途:管理员删除文件,然后自行重新上传并重新填写用途.
