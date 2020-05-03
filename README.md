@@ -19,6 +19,7 @@
 1. 上传文件到File文件夹;
 2. 在"提交信息"处填写用途;
 3. 管理员检测.
+
 注：注册入口：[码云](https://gitee.com/signup?from=homepage),[github](https://github.com/join?source=header-home)
 ### 可能遇到以下情况: 
    #### :worried: 不通过:
