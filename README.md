@@ -23,7 +23,7 @@
 #### 注：
    1.如未注册，请点击链接注册：[码云](https://gitee.com/signup?from=homepage)与[github](https://github.com/join?source=header-home)
    
-   2.[GitHub加入入口](),[码云加入入口]()
+   2.[GitHub加入入口](),[码云加入入口](https://gitee.com/zhou_cloud/cloud/invite_link?invite=cb78834b2101fc59a8a24b675021c09181cc3e00ec053c91b7993663152babc58ec0d6de961b55036121c5559972f7e3)
     
 ### 可能遇到以下情况: 
    #### :worried: 不通过:
