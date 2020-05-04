@@ -14,7 +14,7 @@
 #### 如发现高风险文件,<u>仓库拥有者会取消更改此云盘的权限.</u>
 
 ## 提交步骤
-1. 如在码云中，请进入[周韬宇的云盘](https://github.com/zhouthomas-byte/cloud)并自行申请加入;
+1. 如在码云中，请进入[周韬宇的云盘](https://github.com/zhouthomas-byte/cloud)并```自行申请加入```;
 2. 等待通过审核;
 1. 上传文件到File文件夹;
 2. 在"提交信息"处填写用途;
@@ -23,7 +23,7 @@
 #### 注：
    1.如未注册，请点击链接注册：[码云](https://gitee.com/signup?from=homepage)与[github](https://github.com/join?source=header-home)
    
-   2.[GitHub加入入口](),[码云加入入口](https://gitee.com/zhou_cloud/cloud/invite_link?invite=cb78834b2101fc59a8a24b675021c09181cc3e00ec053c91b7993663152babc58ec0d6de961b55036121c5559972f7e3)
+   2.[码云加入入口](https://gitee.com/zhou_cloud/cloud/invite_link?invite=cb78834b2101fc59a8a24b675021c09181cc3e00ec053c91b7993663152babc58ec0d6de961b55036121c5559972f7e3)
     
 ### 可能遇到以下情况: 
    #### :worried: 不通过:
